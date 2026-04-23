@@ -29,3 +29,4 @@ credentials.json
 
 # Cache directories
 .cache/
+__pycache__/
