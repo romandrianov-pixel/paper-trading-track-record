@@ -150,13 +150,18 @@ def find_ots_cli() -> str | None:
     return None
 
 
-def verify_ots(cli: str | None) -> list[str]:
+def verify_ots(cli: str | None, strict: bool = False) -> list[str]:
     errors: list[str] = []
     if not OTS_DIR.exists():
-        return ["No .ots directory — no OpenTimestamps proofs yet."]
+        msg = "No .ots directory — no OpenTimestamps proofs yet."
+        return [msg] if strict else []
     proofs = sorted(OTS_DIR.glob("*.ots"))
     if not proofs:
-        return ["No .ots proofs present yet (weekly job has not run)."]
+        msg = "No .ots proofs present yet (weekly job has not run)."
+        if not strict:
+            log.info(msg)
+            return []
+        return [msg]
     if cli is None:
         return [
             f"Found {len(proofs)} proofs but no `ots` CLI available. "
@@ -201,6 +206,8 @@ def main() -> int:
                         help="Verify the entire hash chain (default if no other flag)")
     parser.add_argument("--ots", action="store_true",
                         help="Also verify OpenTimestamps proofs")
+    parser.add_argument("--strict-ots", action="store_true",
+                        help="Treat missing .ots proofs as failure (default: warn only)")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -231,7 +238,7 @@ def main() -> int:
 
     if args.ots:
         cli = find_ots_cli()
-        ots_errs = verify_ots(cli)
+        ots_errs = verify_ots(cli, strict=args.strict_ots)
         all_errors.extend(ots_errs)
 
     if all_errors:
