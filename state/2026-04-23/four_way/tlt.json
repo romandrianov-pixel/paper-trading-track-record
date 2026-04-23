@@ -1,0 +1,23 @@
+{
+  "strategy": "four_way.tlt",
+  "init_capital": 15000.0,
+  "cash": -7.49999999999818,
+  "positions": {
+    "TLT": {
+      "qty": 172.6268960198827,
+      "avg_cost": 86.8926010131836
+    }
+  },
+  "last_run": "2026-05-01T09:30:00",
+  "pnl_cum": -7.5,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": -7.5,
+      "eod_value": 14992.5
+    }
+  ],
+  "strategy_meta": {}
+}

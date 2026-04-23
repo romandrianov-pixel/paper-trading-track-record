@@ -1,0 +1,4 @@
+date,timestamp,frequency,signals_json,fills_json,eod_portfolio_value,pnl_day,pnl_cum,cash,positions_json
+2026-05-01,2026-05-01T09:30:00,hourly,"{""in_pos"":false,""ratio"":1.0351,""skew_z"":0.276,""dxy_mom"":0.807,""rsp_mom"":0.624,""vrp"":9.53,""cooldown_end"":""2026-03-04T10:00:00"",""target_w"":0.0}",[],45000.0,0.0,0.0,45000.0,{}
+2026-04-23,2026-04-23T17:00:00,hourly,"{""in_pos"":false,""ratio"":1.0351,""skew_z"":0.276,""dxy_mom"":0.807,""rsp_mom"":0.624,""vrp"":9.53,""cooldown_end"":""2026-03-04T10:00:00"",""target_w"":0.0}",[],45000.0,0.0,0.0,45000.0,{}
+2026-04-23,2026-04-23T17:00:00,hourly,"{""in_pos"":false,""ratio"":1.0351,""skew_z"":0.276,""dxy_mom"":0.807,""rsp_mom"":0.624,""vrp"":9.53,""cooldown_end"":""2026-03-04T10:00:00"",""target_w"":0.0}",[],45000.0,0.0,0.0,45000.0,{}

@@ -1,0 +1,2 @@
+date,timestamp,frequency,signals_json,fills_json,eod_portfolio_value,pnl_day,pnl_cum,cash,positions_json
+2026-05-01,2026-05-01T09:30:00,daily,"{""move"":69.88,""target_w"":1.0}","[{""ticker"":""TLT"",""qty_delta"":172.6268960198827,""price"":86.8926010131836,""cost_usd"":7.499999999999999,""notes"":""target_w=1.0000""}]",14992.5,-7.5,-7.5,-7.5,"{""TLT"":{""qty"":172.6268960198827,""avg_cost"":86.8926010131836}}"

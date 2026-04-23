@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+.venv-ots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Large binaries / temp
+*.parquet
+*.pkl
+*.tmp
+*.log
+tmp/
+
+# Local secrets — never commit
+.env
+*.secret
+credentials.json
+
+# Cache directories
+.cache/

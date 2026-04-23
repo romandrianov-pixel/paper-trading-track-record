@@ -1,0 +1,18 @@
+{
+  "strategy": "four_way.gld",
+  "init_capital": 25000.0,
+  "cash": 25000.0,
+  "positions": {},
+  "last_run": "2026-05-01T09:30:00",
+  "pnl_cum": 0.0,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 25000.0
+    }
+  ],
+  "strategy_meta": {}
+}
