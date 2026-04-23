@@ -1,0 +1,60 @@
+{
+  "timestamp_utc": "2026-04-23T14:24:43",
+  "symbol": "VX/K6",
+  "expiry": "05/19/2026",
+  "last_price": 20.95,
+  "settlement": 20.6508,
+  "source": "cboe_html_primary",
+  "source_url": "https://www.cboe.com/tradable_products/vix/vix_futures/",
+  "delay_minutes": 15,
+  "all_contracts": [
+    {
+      "symbol": "VX/K6",
+      "expiry": "05/19/2026",
+      "last": 20.95,
+      "settlement": 20.6508
+    },
+    {
+      "symbol": "VX/M6",
+      "expiry": "06/17/2026",
+      "last": 21.42,
+      "settlement": 21.3167
+    },
+    {
+      "symbol": "VX/N6",
+      "expiry": "07/22/2026",
+      "last": 22.05,
+      "settlement": 21.9563
+    },
+    {
+      "symbol": "VX/Q6",
+      "expiry": "08/19/2026",
+      "last": 22.2,
+      "settlement": 22.1967
+    },
+    {
+      "symbol": "VX/U6",
+      "expiry": "09/16/2026",
+      "last": 22.5,
+      "settlement": 22.5076
+    },
+    {
+      "symbol": "VX/V6",
+      "expiry": "10/21/2026",
+      "last": 22.85,
+      "settlement": 22.8674
+    },
+    {
+      "symbol": "VX/X6",
+      "expiry": "11/18/2026",
+      "last": 22.8,
+      "settlement": 22.8262
+    },
+    {
+      "symbol": "VX/Z6",
+      "expiry": "12/16/2026",
+      "last": 22.7,
+      "settlement": 22.775
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "strategy": "donchian_crypto",
+  "init_capital": 100000.0,
+  "cash": 74724.48436721186,
+  "positions": {
+    "BTC/USDT": {
+      "qty": 0.3231559075820243,
+      "avg_cost": 78175.52951366201
+    }
+  },
+  "last_run": "2026-05-01T09:30:00",
+  "pnl_cum": -194.98816358091426,
+  "pnl_history": [
+    {
+      "date": "2026-04-22",
+      "pnl_day": -12.571715797486831,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": -182.41644778342743,
+      "eod_value": 99805.01183641909
+    }
+  ],
+  "strategy_meta": {
+    "in_trade": {
+      "BTC/USDT": true,
+      "ETH/USDT": false,
+      "BNB/USDT": false,
+      "XRP/USDT": false,
+      "ADA/USDT": false,
+      "SOL/USDT": false,
+      "DOGE/USDT": false,
+      "AVAX/USDT": false,
+      "DOT/USDT": false,
+      "LINK/USDT": false,
+      "LTC/USDT": false,
+      "UNI/USDT": false,
+      "BCH/USDT": false,
+      "ATOM/USDT": false,
+      "ETC/USDT": false,
+      "XLM/USDT": false,
+      "NEAR/USDT": false,
+      "ALGO/USDT": false,
+      "FIL/USDT": false
+    }
+  }
+}

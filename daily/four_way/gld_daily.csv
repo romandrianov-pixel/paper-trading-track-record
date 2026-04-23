@@ -1,2 +1,3 @@
 date,timestamp,frequency,signals_json,fills_json,eod_portfolio_value,pnl_day,pnl_cum,cash,positions_json
 2026-05-01,2026-05-01T09:30:00,daily,"{""gvz"":27.09,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}
+2026-04-23,2026-04-23,daily,"{""gvz"":27.87,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}

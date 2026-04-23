@@ -92,12 +92,30 @@ def build_week_manifest(date_str: str) -> Path:
     return manifest
 
 
-def stamp_manifest(manifest: Path) -> Path:
+def stamp_manifest(manifest: Path) -> Path | None:
+    """Call `ots stamp`.  Returns proof Path on success, None on recoverable
+    network failure (calendars unreachable)."""
     ots = _find_ots()
-    _run([ots, "stamp", str(manifest)])
+    try:
+        res = subprocess.run(
+            [ots, "stamp", str(manifest)],
+            capture_output=True, text=True, timeout=120,
+        )
+    except subprocess.TimeoutExpired:
+        log.error("ots stamp timed out — retry next week")
+        return None
+    if res.returncode != 0:
+        err = (res.stderr or res.stdout or "").strip()
+        # Common recoverable issue: no internet / calendars down
+        if "attestations" in err or "timeout" in err.lower() or "calendar" in err.lower():
+            log.error(f"ots stamp failed — calendars unreachable: {err}")
+            return None
+        log.error(f"ots stamp failed: {err}")
+        return None
     proof = manifest.with_suffix(manifest.suffix + ".ots")
     if not proof.exists():
-        raise RuntimeError(f"ots stamp did not produce {proof}")
+        log.error(f"ots stamp completed but {proof} missing")
+        return None
     log.info(f"Stamped: {proof.name}")
     return proof
 
@@ -146,7 +164,12 @@ def main() -> int:
 
     try:
         manifest = build_week_manifest(date_str)
-        stamp_manifest(manifest)
+        proof = stamp_manifest(manifest)
+        if proof is None:
+            log.warning(
+                "Proof not generated; manifest file still committed for audit "
+                "trail. Re-run this script with network connectivity to stamp."
+            )
         git_commit_stamp(date_str, push=push)
     except Exception as e:
         log.exception(f"ots_weekly failed: {e}")
