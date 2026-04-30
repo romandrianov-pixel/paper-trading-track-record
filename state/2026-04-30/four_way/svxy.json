@@ -1,0 +1,195 @@
+{
+  "strategy": "four_way.svxy",
+  "init_capital": 45000.0,
+  "cash": 4479.75,
+  "positions": {
+    "SVXY": {
+      "qty": 802.2979397781301,
+      "avg_cost": 50.48
+    }
+  },
+  "last_run": "2026-04-29T20:00:00",
+  "pnl_cum": -20.25,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T08:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -20.25,
+      "eod_value": 44979.75
+    }
+  ],
+  "strategy_meta": {
+    "in_pos": true,
+    "cooldown_end": "2026-03-04T10:00:00",
+    "last_bar": "2026-04-29T19:00:00"
+  }
+}
