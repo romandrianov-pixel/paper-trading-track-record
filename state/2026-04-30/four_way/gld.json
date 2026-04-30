@@ -3,7 +3,7 @@
   "init_capital": 25000.0,
   "cash": 25000.0,
   "positions": {},
-  "last_run": "2026-04-29T21:00:00",
+  "last_run": "2026-04-30T21:00:00",
   "pnl_cum": 0.0,
   "pnl_history": [
     {
@@ -37,6 +37,13 @@
     {
       "date": "2026-04-29",
       "timestamp": "2026-04-29T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 25000.0
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:00:00",
       "frequency": "daily",
       "pnl_day": 0.0,
       "eod_value": 25000.0
