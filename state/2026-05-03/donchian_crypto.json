@@ -1,0 +1,103 @@
+{
+  "strategy": "donchian_crypto",
+  "init_capital": 100000.0,
+  "cash": 74439.59331253517,
+  "positions": {
+    "BTC/USDT": {
+      "qty": 0.18033835372647763,
+      "avg_cost": 78029.5665296916
+    },
+    "DOGE/USDT": {
+      "qty": 105498.29741164211,
+      "avg_cost": 0.1059877869614015
+    }
+  },
+  "last_run": "2026-05-02T21:00:00",
+  "pnl_cum": 31.899051608066657,
+  "pnl_history": [
+    {
+      "date": "2026-04-22",
+      "pnl_day": -12.571715797486831,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": -182.41644778342743,
+      "eod_value": 99805.01183641909
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -239.609313469482,
+      "eod_value": 99565.4025229496
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -172.9717859736411,
+      "eod_value": 99392.43073697596
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -281.7226670141972,
+      "eod_value": 99110.70806996177
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 283.74912154785125,
+      "eod_value": 99394.45719150962
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 694.6933445176546,
+      "eod_value": 100089.15053602727
+    },
+    {
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -57.251484419204644,
+      "eod_value": 100031.89905160807
+    }
+  ],
+  "strategy_meta": {
+    "in_trade": {
+      "BTC/USDT": true,
+      "ETH/USDT": false,
+      "BNB/USDT": false,
+      "XRP/USDT": false,
+      "ADA/USDT": false,
+      "SOL/USDT": false,
+      "DOGE/USDT": true,
+      "AVAX/USDT": false,
+      "DOT/USDT": false,
+      "LINK/USDT": false,
+      "LTC/USDT": false,
+      "UNI/USDT": false,
+      "BCH/USDT": false,
+      "ATOM/USDT": false,
+      "ETC/USDT": false,
+      "XLM/USDT": false,
+      "NEAR/USDT": false,
+      "ALGO/USDT": false,
+      "FIL/USDT": false
+    }
+  }
+}
