@@ -1,10 +1,15 @@
 {
   "strategy": "four_way.svxy",
   "init_capital": 45000.0,
-  "cash": 45143.9362618859,
-  "positions": {},
-  "last_run": "2026-05-01T20:00:00",
-  "pnl_cum": 143.93626188590133,
+  "cash": 4485.341454363601,
+  "positions": {
+    "SVXY": {
+      "qty": 797.3160681108467,
+      "avg_cost": 50.96907834910154
+    }
+  },
+  "last_run": "2026-05-04T20:00:00",
+  "pnl_cum": -146.54601718422782,
   "pnl_history": [
     {
       "date": "2026-05-01",
@@ -278,11 +283,60 @@
       "frequency": "hourly",
       "pnl_day": 0.0,
       "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": -20.31477131784777,
+      "eod_value": 45123.62149056805
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 364.2594987190896,
+      "eod_value": 45487.88098928714
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": -346.14536482805124,
+      "eod_value": 45141.73562445909
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -535.5960867879985,
+      "eod_value": 44606.13953767109
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 239.3295332634225,
+      "eod_value": 44845.469070934516
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 95.67502005010465,
+      "eod_value": 44941.14409098462
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -87.69010816884838,
+      "eod_value": 44853.45398281577
     }
   ],
   "strategy_meta": {
-    "in_pos": false,
+    "in_pos": true,
     "cooldown_end": "2026-05-02T13:00:00",
-    "last_bar": "2026-05-01T19:00:00"
+    "last_bar": "2026-05-04T19:00:00"
   }
 }
