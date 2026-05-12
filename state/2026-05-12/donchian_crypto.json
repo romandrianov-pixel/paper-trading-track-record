@@ -1,0 +1,198 @@
+{
+  "strategy": "donchian_crypto",
+  "init_capital": 100000.0,
+  "cash": 77887.81275290334,
+  "positions": {
+    "BTC/USDT": {
+      "qty": 0.04061840512205836,
+      "avg_cost": 78202.3403009156
+    },
+    "DOGE/USDT": {
+      "qty": 23914.9620567884,
+      "avg_cost": 0.10647256236790452
+    },
+    "ETC/USDT": {
+      "qty": 219.38498045393888,
+      "avg_cost": 9.287748370817594
+    },
+    "FIL/USDT": {
+      "qty": 1240.8611457597767,
+      "avg_cost": 1.0749467597873816
+    },
+    "LINK/USDT": {
+      "qty": 220.428305266744,
+      "avg_cost": 10.044728910571541
+    },
+    "NEAR/USDT": {
+      "qty": 1168.953531961851,
+      "avg_cost": 1.5119383218780107
+    },
+    "ALGO/USDT": {
+      "qty": 11763.362622829802,
+      "avg_cost": 0.12523242321420433
+    },
+    "ATOM/USDT": {
+      "qty": 1435.1748063245766,
+      "avg_cost": 2.0318339457138848
+    },
+    "LTC/USDT": {
+      "qty": 58.36277101203789,
+      "avg_cost": 59.78
+    },
+    "SOL/USDT": {
+      "qty": 24.04843799542086,
+      "avg_cost": 96.47
+    }
+  },
+  "last_run": "2026-05-11T21:00:00",
+  "pnl_cum": 1808.0754770292551,
+  "pnl_history": [
+    {
+      "date": "2026-04-22",
+      "pnl_day": -12.571715797486831,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 99987.42828420251
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": -182.41644778342743,
+      "eod_value": 99805.01183641909
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -239.609313469482,
+      "eod_value": 99565.4025229496
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -172.9717859736411,
+      "eod_value": 99392.43073697596
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -281.7226670141972,
+      "eod_value": 99110.70806996177
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 283.74912154785125,
+      "eod_value": 99394.45719150962
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 694.6933445176546,
+      "eod_value": 100089.15053602727
+    },
+    {
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -57.251484419204644,
+      "eod_value": 100031.89905160807
+    },
+    {
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 79.89961287543701,
+      "eod_value": 100111.7986644835
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 426.59898778454226,
+      "eod_value": 100538.39765226805
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 716.4807497276779,
+      "eod_value": 101254.87840199572
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -122.25419649916876,
+      "eod_value": 101132.62420549656
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -449.23476781997306,
+      "eod_value": 100683.38943767658
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 976.9865844634623,
+      "eod_value": 101660.37602214004
+    },
+    {
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 21.940608431599685,
+      "eod_value": 101682.31663057164
+    },
+    {
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 363.5813918262138,
+      "eod_value": 102045.89802239786
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -237.82254536860273,
+      "eod_value": 101808.07547702926
+    }
+  ],
+  "strategy_meta": {
+    "in_trade": {
+      "BTC/USDT": true,
+      "ETH/USDT": false,
+      "BNB/USDT": false,
+      "XRP/USDT": false,
+      "ADA/USDT": false,
+      "SOL/USDT": true,
+      "DOGE/USDT": true,
+      "AVAX/USDT": false,
+      "DOT/USDT": false,
+      "LINK/USDT": true,
+      "LTC/USDT": true,
+      "UNI/USDT": false,
+      "BCH/USDT": false,
+      "ATOM/USDT": true,
+      "ETC/USDT": true,
+      "XLM/USDT": false,
+      "NEAR/USDT": true,
+      "ALGO/USDT": true,
+      "FIL/USDT": true
+    }
+  }
+}
