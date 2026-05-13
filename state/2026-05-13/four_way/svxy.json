@@ -1,15 +1,10 @@
 {
   "strategy": "four_way.svxy",
   "init_capital": 45000.0,
-  "cash": 4527.115967728512,
-  "positions": {
-    "SVXY": {
-      "qty": 795.78294373707,
-      "avg_cost": 51.379335855265
-    }
-  },
-  "last_run": "2026-05-12T20:00:00",
-  "pnl_cum": 271.2026870664995,
+  "cash": 45282.673793259244,
+  "positions": {},
+  "last_run": "2026-05-13T20:00:00",
+  "pnl_cum": 282.6737932592441,
   "pnl_history": [
     {
       "date": "2026-05-01",
@@ -626,11 +621,60 @@
       "frequency": "hourly",
       "pnl_day": 95.51157531165518,
       "eod_value": 45271.2026870665
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 111.40403949209576,
+      "eod_value": 45382.606726558595
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 23.865779836516595,
+      "eod_value": 45406.47250639511
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45406.47250639511
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -123.79871313586773,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
     }
   ],
   "strategy_meta": {
-    "in_pos": true,
-    "cooldown_end": "2026-05-11T15:00:00",
-    "last_bar": "2026-05-12T19:00:00"
+    "in_pos": false,
+    "cooldown_end": "2026-05-15T16:00:00",
+    "last_bar": "2026-05-13T19:00:00"
   }
 }
