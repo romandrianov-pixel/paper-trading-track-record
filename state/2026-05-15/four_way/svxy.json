@@ -1,0 +1,729 @@
+{
+  "strategy": "four_way.svxy",
+  "init_capital": 45000.0,
+  "cash": 45282.673793259244,
+  "positions": {},
+  "last_run": "2026-05-14T20:00:00",
+  "pnl_cum": 282.6737932592441,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T08:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45000.0
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -20.25,
+      "eod_value": 44979.75
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 164.18626188590133,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45143.9362618859
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": -20.31477131784777,
+      "eod_value": 45123.62149056805
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 364.2594987190896,
+      "eod_value": 45487.88098928714
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": -346.14536482805124,
+      "eod_value": 45141.73562445909
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -535.5960867879985,
+      "eod_value": 44606.13953767109
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 239.3295332634225,
+      "eod_value": 44845.469070934516
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 95.67502005010465,
+      "eod_value": 44941.14409098462
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -87.69010816884838,
+      "eod_value": 44853.45398281577
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 406.6108612048338,
+      "eod_value": 45260.064844020606
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 27.87682695586409,
+      "eod_value": 45287.94167097647
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": -131.42346413602354,
+      "eod_value": 45156.51820684045
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -23.902900989472982,
+      "eod_value": 45132.61530585097
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 87.64036091604066,
+      "eod_value": 45220.255666767014
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 47.793537819743506,
+      "eod_value": 45268.04920458676
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -103.55086607668636,
+      "eod_value": 45164.49833851007
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 231.033827944535,
+      "eod_value": 45395.532166454606
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": -23.888924140766903,
+      "eod_value": 45371.64324231384
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 31.850575334094174,
+      "eod_value": 45403.49381764793
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 31.848091810301412,
+      "eod_value": 45435.341909458235
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": -39.81099397041544,
+      "eod_value": 45395.53091548782
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": -7.962973654161033,
+      "eod_value": 45387.56794183366
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 39.811665576205996,
+      "eod_value": 45427.379607409865
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 62.81668999748217,
+      "eod_value": 45490.19629740735
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": -55.40073837921955,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45434.79555902813
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": -20.44565800156124,
+      "eod_value": 45414.349901026566
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -87.54948583425721,
+      "eod_value": 45326.80041519231
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": -15.914241800994205,
+      "eod_value": 45310.886173391315
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": -123.3401903808408,
+      "eod_value": 45187.545983010474
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": -71.63860635879973,
+      "eod_value": 45115.907376651674
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": -203.01184564747382,
+      "eod_value": 44912.8955310042
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 39.82225556203048,
+      "eod_value": 44952.71778656623
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": -107.52024597842683,
+      "eod_value": 44845.197540587804
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 67.70919505747588,
+      "eod_value": 44912.90673564528
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 127.43124349722348,
+      "eod_value": 45040.3379791425
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 135.35313261234114,
+      "eod_value": 45175.691111754844
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 95.51157531165518,
+      "eod_value": 45271.2026870665
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 111.40403949209576,
+      "eod_value": 45382.606726558595
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 23.865779836516595,
+      "eod_value": 45406.47250639511
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45406.47250639511
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": -123.79871313586773,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 45282.673793259244
+    }
+  ],
+  "strategy_meta": {
+    "in_pos": false,
+    "cooldown_end": "2026-05-15T16:00:00",
+    "last_bar": "2026-05-14T19:00:00"
+  }
+}
