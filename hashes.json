@@ -147,10 +147,10 @@
     "state_tree_sha": "9eb11b5e40f3c4dedcf4f2435b5ff242fa56d54dbf34d36b0ce240d9bd67e7be"
   },
   "2026-05-17": {
-    "committed_utc": "2026-05-17T08:30:13Z",
+    "committed_utc": "2026-05-17T20:01:45Z",
     "prev_date": "2026-05-16",
     "prev_sha": "9eb11b5e40f3c4dedcf4f2435b5ff242fa56d54dbf34d36b0ce240d9bd67e7be",
-    "raw_tree_sha": "eb7eb1b8c5ff05cca63770c9f8afc0799f18356822a51ecf4e9dc05d02029af3",
-    "state_tree_sha": "9eb11b5e40f3c4dedcf4f2435b5ff242fa56d54dbf34d36b0ce240d9bd67e7be"
+    "raw_tree_sha": "b24acb24ef5ad67a5b847a7eef72aec2379fca23dbd08cf4ff5977b38a5bbb01",
+    "state_tree_sha": "b5fed360d49f4bac2c027a4155e8256949018d4c152bc47bb232ac2e9919b7e0"
   }
 }
