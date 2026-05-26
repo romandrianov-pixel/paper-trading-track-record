@@ -1,43 +1,35 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 77903.71699346013,
+  "cash": 76247.68095061337,
   "positions": {
-    "ETC/USDT": {
-      "qty": 339.9612007235297,
-      "avg_cost": 9.133380127267746
-    },
     "FIL/USDT": {
-      "qty": 1861.0406762407677,
-      "avg_cost": 1.0265026359736713
+      "qty": 2871.2581559234327,
+      "avg_cost": 1.0199927071321122
     },
     "LINK/USDT": {
       "qty": 331.20519066206754,
       "avg_cost": 9.83048645136246
     },
     "NEAR/USDT": {
-      "qty": 607.6179617459761,
-      "avg_cost": 1.5232901086218418
+      "qty": 972.7095795690911,
+      "avg_cost": 1.9510627314396303
     },
     "ALGO/USDT": {
-      "qty": 16007.26526138497,
-      "avg_cost": 0.11955688747166444
+      "qty": 25797.43955898149,
+      "avg_cost": 0.11562643021460355
     },
     "ATOM/USDT": {
-      "qty": 1612.807553414915,
-      "avg_cost": 2.0345025659509997
-    },
-    "SOL/USDT": {
-      "qty": 38.226266006455,
-      "avg_cost": 91.2285677993786
+      "qty": 2415.0466079878247,
+      "avg_cost": 2.0904746626146156
     },
     "BNB/USDT": {
-      "qty": 7.727882186876012,
-      "avg_cost": 662.3121154828107
+      "qty": 12.246183722182955,
+      "avg_cost": 660.5624840749645
     }
   },
-  "last_run": "2026-05-25T21:00:00",
-  "pnl_cum": 1339.3595309037191,
+  "last_run": "2026-05-26T21:00:00",
+  "pnl_cum": -2077.6141103895206,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -260,6 +252,13 @@
       "frequency": "daily",
       "pnl_day": 666.1245454031741,
       "eod_value": 101339.35953090372
+    },
+    {
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -3416.97364129324,
+      "eod_value": 97922.38588961048
     }
   ],
   "strategy_meta": {
@@ -269,7 +268,7 @@
       "BNB/USDT": true,
       "XRP/USDT": false,
       "ADA/USDT": false,
-      "SOL/USDT": true,
+      "SOL/USDT": false,
       "DOGE/USDT": false,
       "AVAX/USDT": false,
       "DOT/USDT": false,
@@ -278,7 +277,7 @@
       "UNI/USDT": false,
       "BCH/USDT": false,
       "ATOM/USDT": true,
-      "ETC/USDT": true,
+      "ETC/USDT": false,
       "XLM/USDT": false,
       "NEAR/USDT": true,
       "ALGO/USDT": true,
