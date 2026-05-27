@@ -1,35 +1,27 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 76247.68095061337,
+  "cash": 71297.55508376964,
   "positions": {
     "FIL/USDT": {
-      "qty": 2871.2581559234327,
-      "avg_cost": 1.0199927071321122
-    },
-    "LINK/USDT": {
-      "qty": 331.20519066206754,
-      "avg_cost": 9.83048645136246
+      "qty": 4578.822092362801,
+      "avg_cost": 1.0349124854326752
     },
     "NEAR/USDT": {
       "qty": 972.7095795690911,
       "avg_cost": 1.9510627314396303
     },
-    "ALGO/USDT": {
-      "qty": 25797.43955898149,
-      "avg_cost": 0.11562643021460355
-    },
     "ATOM/USDT": {
-      "qty": 2415.0466079878247,
-      "avg_cost": 2.0904746626146156
+      "qty": 4043.4025738460005,
+      "avg_cost": 2.119682010547581
     },
     "BNB/USDT": {
-      "qty": 12.246183722182955,
-      "avg_cost": 660.5624840749645
+      "qty": 20.605881229427364,
+      "avg_cost": 657.672929791703
     }
   },
-  "last_run": "2026-05-26T21:00:00",
-  "pnl_cum": -2077.6141103895206,
+  "last_run": "2026-05-27T21:00:00",
+  "pnl_cum": -1638.306700539877,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -259,6 +251,13 @@
       "frequency": "daily",
       "pnl_day": -3416.97364129324,
       "eod_value": 97922.38588961048
+    },
+    {
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 439.3074098496436,
+      "eod_value": 98361.69329946012
     }
   ],
   "strategy_meta": {
@@ -272,7 +271,7 @@
       "DOGE/USDT": false,
       "AVAX/USDT": false,
       "DOT/USDT": false,
-      "LINK/USDT": true,
+      "LINK/USDT": false,
       "LTC/USDT": false,
       "UNI/USDT": false,
       "BCH/USDT": false,
@@ -280,7 +279,7 @@
       "ETC/USDT": false,
       "XLM/USDT": false,
       "NEAR/USDT": true,
-      "ALGO/USDT": true,
+      "ALGO/USDT": false,
       "FIL/USDT": true
     }
   }
