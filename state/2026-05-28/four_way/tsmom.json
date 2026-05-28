@@ -1,0 +1,38 @@
+{
+  "strategy": "four_way.tsmom",
+  "init_capital": 15000.0,
+  "cash": 15138.523442360436,
+  "positions": {
+    "GLD": {
+      "qty": 5.859855514264514,
+      "avg_cost": 432.09570395804604
+    },
+    "SPY": {
+      "qty": 7.04929377494686,
+      "avg_cost": 710.4299926757812
+    },
+    "TLT": {
+      "qty": -88.40805091227209,
+      "avg_cost": 86.8926010131836
+    }
+  },
+  "last_run": "2026-05-01T09:00:00",
+  "pnl_cum": 117.65756405569482,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "monthly",
+      "pnl_day": -7.5,
+      "eod_value": 14992.5
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:00:00",
+      "frequency": "monthly",
+      "pnl_day": 125.15756405569482,
+      "eod_value": 15117.657564055695
+    }
+  ],
+  "strategy_meta": {}
+}
