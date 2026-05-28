@@ -24,3 +24,4 @@ date,signals_json,fills_json,eod_portfolio_value,pnl_day,pnl_cum,cash,positions_
 2026-05-22,2026-05-22T21:00:00,daily,"{""settle"":{""expiry"":""2026-05-22"",""payoff"":7.09,""trade_pnl"":1084.27,""consec_losses"":0},""spot"":745.7,""consec_losses"":0}","[{""ticker"":""SPY_SPREAD_738.6/753.4"",""qty_delta"":-439.29631103243946,""price"":7.09002685546875,""cost_usd"":1.5573113213641743,""notes"":""settle expiry 2026-05-22 pnl=1084.27""}]",102522.9,1285.58,2522.9,102522.9,{}
 2026-05-26,2026-05-26T21:00:00,daily,"{""spot"":750.56,""consec_losses"":0}",[],102522.9,0.0,2522.9,102522.9,{}
 2026-05-27,2026-05-27T21:00:00,daily,"{""spot"":750.45,""consec_losses"":0}",[],102522.9,0.0,2522.9,102522.9,{}
+2026-05-28,2026-05-28T21:00:00,daily,"{""spot"":754.65,""consec_losses"":0}",[],102522.9,0.0,2522.9,102522.9,{}
