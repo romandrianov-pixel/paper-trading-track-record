@@ -1,0 +1,198 @@
+{
+  "strategy": "four_way.tlt",
+  "init_capital": 15000.0,
+  "cash": -0.003579281082329647,
+  "positions": {
+    "TLT": {
+      "qty": 169.01910117393467,
+      "avg_cost": 84.66500091552734
+    }
+  },
+  "last_run": "2026-05-29T21:00:00",
+  "pnl_cum": -509.99546825376456,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "daily",
+      "pnl_day": -7.5,
+      "eod_value": 14992.5
+    },
+    {
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23",
+      "frequency": "daily",
+      "pnl_day": -59.14537266367188,
+      "eod_value": 14933.354627336328
+    },
+    {
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -43.13506022757065,
+      "eod_value": 14890.219567108757
+    },
+    {
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 8.626222218970724,
+      "eod_value": 14898.845789327728
+    },
+    {
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -113.87587448445083,
+      "eod_value": 14784.969914843277
+    },
+    {
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -24.155528417235473,
+      "eod_value": 14760.814386426042
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 10.35199321379514,
+      "eod_value": 14771.166379639837
+    },
+    {
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -112.15141986720118,
+      "eod_value": 14659.014959772636
+    },
+    {
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 80.23189653962072,
+      "eod_value": 14739.246856312257
+    },
+    {
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 113.01364717582692,
+      "eod_value": 14852.260503488083
+    },
+    {
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -72.4665852517046,
+      "eod_value": 14779.793918236379
+    },
+    {
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 70.740814256882,
+      "eod_value": 14850.53473249326
+    },
+    {
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -87.13234776377067,
+      "eod_value": 14763.40238472949
+    },
+    {
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -99.2114283499559,
+      "eod_value": 14664.190956379534
+    },
+    {
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -32.78175063620802,
+      "eod_value": 14631.409205743326
+    },
+    {
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 20.70398642759028,
+      "eod_value": 14652.113192170917
+    },
+    {
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -217.39975575511016,
+      "eod_value": 14434.713436415806
+    },
+    {
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -17.255077193085526,
+      "eod_value": 14417.45835922272
+    },
+    {
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -100.33403316744443,
+      "eod_value": 14317.124326055276
+    },
+    {
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 14317.124326055276
+    },
+    {
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 0.0,
+      "eod_value": 14317.124326055276
+    },
+    {
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -7.1585621630274545,
+      "eod_value": 14309.965763892249
+    },
+    {
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 73.55590882582692,
+      "eod_value": 14383.521672718076
+    },
+    {
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 33.80459394283025,
+      "eod_value": 14417.326266660906
+    },
+    {
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 74.36752764741505,
+      "eod_value": 14491.693794308321
+    },
+    {
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -1.689262562085787,
+      "eod_value": 14490.004531746235
+    }
+  ],
+  "strategy_meta": {}
+}
