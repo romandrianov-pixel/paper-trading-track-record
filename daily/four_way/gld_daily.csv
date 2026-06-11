@@ -33,3 +33,4 @@ date,timestamp,frequency,signals_json,fills_json,eod_portfolio_value,pnl_day,pnl
 2026-06-08,2026-06-08T21:00:00,daily,"{""gvz"":27.1,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}
 2026-06-09,2026-06-09T21:00:00,daily,"{""gvz"":28.01,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}
 2026-06-10,2026-06-10T21:00:00,daily,"{""gvz"":32.09,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}
+2026-06-11,2026-06-11T21:00:00,daily,"{""gvz"":28.63,""in_pos"":false,""target_w"":0.0}",[],25000.0,0.0,0.0,25000.0,{}
