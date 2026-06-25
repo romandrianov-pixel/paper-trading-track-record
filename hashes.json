@@ -418,5 +418,12 @@
     "prev_sha": "82dddafa07e1ba9c66a8e004d052d0845fd9cc216878b00804133c3e220f7d9f",
     "raw_tree_sha": "8baa61c847c784fdf1138d841cdf762b3003c464cdb6c8c475dd0ae797874493",
     "state_tree_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943"
+  },
+  "2026-06-25": {
+    "committed_utc": "2026-06-25T08:30:09Z",
+    "prev_date": "2026-06-24",
+    "prev_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943",
+    "raw_tree_sha": "bf87c4559ef9dad8b281ac047ee805059c968488d2250c277e036373e5466537",
+    "state_tree_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943"
   }
 }
