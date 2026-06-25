@@ -420,10 +420,10 @@
     "state_tree_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943"
   },
   "2026-06-25": {
-    "committed_utc": "2026-06-25T08:30:09Z",
+    "committed_utc": "2026-06-25T20:01:55Z",
     "prev_date": "2026-06-24",
     "prev_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943",
-    "raw_tree_sha": "bf87c4559ef9dad8b281ac047ee805059c968488d2250c277e036373e5466537",
-    "state_tree_sha": "b0dd3bf9f9ae01b00598cdecd82fc6e3b272b758322e8821a6c0b8345341b943"
+    "raw_tree_sha": "e4c994c8da9ba7451aa0ad3956c920f91d37617b63003b574752addd9d497191",
+    "state_tree_sha": "6f2b5c3b90d8900aa990bd152da675a6c36e748477dbb6e2f859a05663a03869"
   }
 }
