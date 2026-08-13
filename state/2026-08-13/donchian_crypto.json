@@ -1,19 +1,23 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 65603.00854937511,
+  "cash": 57056.93030566742,
   "positions": {
     "ADA/USDT": {
-      "qty": 45653.85714269122,
+      "qty": 36923.71726824641,
       "avg_cost": 0.20159863022522095
     },
     "BNB/USDT": {
       "qty": 34.022745654185925,
       "avg_cost": 611.73
+    },
+    "LINK/USDT": {
+      "qty": 1147.0198253910116,
+      "avg_cost": 8.827
     }
   },
-  "last_run": "2026-08-12T21:00:00",
-  "pnl_cum": -5284.433384878575,
+  "last_run": "2026-08-13T21:00:00",
+  "pnl_cum": -26116.6710114194,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -565,6 +569,13 @@
       "frequency": "daily",
       "pnl_day": -187.1531122612214,
       "eod_value": 94715.56661512142
+    },
+    {
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -20832.237626540824,
+      "eod_value": 73883.3289885806
     }
   ],
   "strategy_meta": {
@@ -578,7 +589,7 @@
       "DOGE/USDT": false,
       "AVAX/USDT": false,
       "DOT/USDT": false,
-      "LINK/USDT": false,
+      "LINK/USDT": true,
       "LTC/USDT": false,
       "UNI/USDT": false,
       "BCH/USDT": false,
