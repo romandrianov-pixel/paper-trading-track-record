@@ -1,0 +1,59 @@
+{
+  "strategy": "four_way.tsmom",
+  "init_capital": 15000.0,
+  "cash": 14996.125374363617,
+  "positions": {
+    "GLD": {
+      "qty": 6.707871561502704,
+      "avg_cost": 424.1013730629597
+    },
+    "SPY": {
+      "qty": 7.044935139537499,
+      "avg_cost": 716.3738967305751
+    },
+    "TLT": {
+      "qty": -90.86761268803936,
+      "avg_cost": 86.64072051300403
+    }
+  },
+  "last_run": "2026-09-01T09:00:00",
+  "pnl_cum": 641.1766863880985,
+  "pnl_history": [
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:30:00",
+      "frequency": "monthly",
+      "pnl_day": -7.5,
+      "eod_value": 14992.5
+    },
+    {
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T09:00:00",
+      "frequency": "monthly",
+      "pnl_day": 125.15756405569482,
+      "eod_value": 15117.657564055695
+    },
+    {
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T09:00:00",
+      "frequency": "monthly",
+      "pnl_day": 215.5012180844733,
+      "eod_value": 15333.158782140168
+    },
+    {
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T09:00:00",
+      "frequency": "monthly",
+      "pnl_day": -454.21849871321865,
+      "eod_value": 14878.94028342695
+    },
+    {
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T09:00:00",
+      "frequency": "monthly",
+      "pnl_day": 762.236402961149,
+      "eod_value": 15641.176686388098
+    }
+  ],
+  "strategy_meta": {}
+}
