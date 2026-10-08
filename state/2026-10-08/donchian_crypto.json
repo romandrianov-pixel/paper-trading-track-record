@@ -1,79 +1,47 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 87427.62731973686,
+  "cash": 88096.03119340411,
   "positions": {
     "ADA/USDT": {
-      "qty": 3677.2008830367818,
-      "avg_cost": 0.20863544045865573
-    },
-    "BNB/USDT": {
-      "qty": 2.4856561082199824,
-      "avg_cost": 689.7614162642833
-    },
-    "ETH/USDT": {
-      "qty": 0.47438203783724964,
-      "avg_cost": 2362.149704195796
+      "qty": 7289.076465961513,
+      "avg_cost": 0.2203121264732989
     },
     "AVAX/USDT": {
-      "qty": 74.82719365851236,
-      "avg_cost": 7.867470844243284
-    },
-    "XRP/USDT": {
-      "qty": 645.6470887643735,
-      "avg_cost": 1.331899411580241
+      "qty": 149.24343654705365,
+      "avg_cost": 8.989636938493826
     },
     "ALGO/USDT": {
-      "qty": 7560.27679543282,
-      "avg_cost": 0.09643627426891707
-    },
-    "DOT/USDT": {
-      "qty": 733.813375254249,
-      "avg_cost": 0.9962239458241875
-    },
-    "ETC/USDT": {
-      "qty": 105.01422997179097,
-      "avg_cost": 7.701527419496238
+      "qty": 14264.087275292863,
+      "avg_cost": 0.1074167167172681
     },
     "LTC/USDT": {
-      "qty": 16.857941494371314,
-      "avg_cost": 53.81924058869686
+      "qty": 32.6346836382484,
+      "avg_cost": 58.1318462361052
     },
     "ATOM/USDT": {
-      "qty": 577.5608905600008,
-      "avg_cost": 1.604944267241243
+      "qty": 1075.5641383085938,
+      "avg_cost": 1.661458006548118
     },
     "NEAR/USDT": {
-      "qty": 113.45172924594742,
-      "avg_cost": 2.5256170283813417
+      "qty": 237.41351063972525,
+      "avg_cost": 3.5998476291751245
     },
     "FIL/USDT": {
-      "qty": 649.6493095474852,
-      "avg_cost": 0.885634135466188
-    },
-    "SOL/USDT": {
-      "qty": 10.146521829952558,
-      "avg_cost": 113.76581059158495
+      "qty": 1215.7596838244256,
+      "avg_cost": 0.9593295779114064
     },
     "BTC/USDT": {
-      "qty": 0.020491481881976307,
-      "avg_cost": 81482.98430345871
-    },
-    "DOGE/USDT": {
-      "qty": 10922.080655786256,
-      "avg_cost": 0.09756010911075301
-    },
-    "XLM/USDT": {
-      "qty": 4761.222702530946,
-      "avg_cost": 0.21179255692295784
+      "qty": 0.03882977206346997,
+      "avg_cost": 81635.60704639398
     },
     "LINK/USDT": {
-      "qty": 70.3115847086304,
-      "avg_cost": 14.873672127988685
+      "qty": 137.68338940519743,
+      "avg_cost": 13.723431534721165
     }
   },
-  "last_run": "2026-10-07T21:00:00",
-  "pnl_cum": 4962.4008188949665,
+  "last_run": "2026-10-08T21:00:00",
+  "pnl_cum": 4170.357710303695,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -1017,26 +985,33 @@
       "frequency": "daily",
       "pnl_day": -772.8810800808715,
       "eod_value": 104962.40081889497
+    },
+    {
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -792.0431085912714,
+      "eod_value": 104170.3577103037
     }
   ],
   "strategy_meta": {
     "in_trade": {
       "BTC/USDT": true,
-      "ETH/USDT": true,
-      "BNB/USDT": true,
-      "XRP/USDT": true,
+      "ETH/USDT": false,
+      "BNB/USDT": false,
+      "XRP/USDT": false,
       "ADA/USDT": true,
-      "SOL/USDT": true,
-      "DOGE/USDT": true,
+      "SOL/USDT": false,
+      "DOGE/USDT": false,
       "AVAX/USDT": true,
-      "DOT/USDT": true,
+      "DOT/USDT": false,
       "LINK/USDT": true,
       "LTC/USDT": true,
       "UNI/USDT": false,
       "BCH/USDT": false,
       "ATOM/USDT": true,
-      "ETC/USDT": true,
-      "XLM/USDT": true,
+      "ETC/USDT": false,
+      "XLM/USDT": false,
       "NEAR/USDT": true,
       "ALGO/USDT": true,
       "FIL/USDT": true
