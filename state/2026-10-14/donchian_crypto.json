@@ -1,47 +1,31 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 89255.66544112723,
+  "cash": 88790.46588463733,
   "positions": {
-    "ADA/USDT": {
-      "qty": 6973.756549030531,
-      "avg_cost": 0.22124608746067592
-    },
-    "AVAX/USDT": {
-      "qty": 143.01358420790783,
-      "avg_cost": 9.025973340072799
-    },
     "ALGO/USDT": {
-      "qty": 13698.705423244039,
-      "avg_cost": 0.10782284073241939
-    },
-    "LTC/USDT": {
-      "qty": 32.89524719431828,
-      "avg_cost": 58.22228622920785
+      "qty": 25496.62775592181,
+      "avg_cost": 0.1115140702697239
     },
     "ATOM/USDT": {
-      "qty": 867.9135642435979,
-      "avg_cost": 1.6781137300399687
+      "qty": 1637.0097999798986,
+      "avg_cost": 1.7151758986832366
     },
     "NEAR/USDT": {
-      "qty": 200.30640352639344,
-      "avg_cost": 3.6946584571971304
+      "qty": 371.14704734064696,
+      "avg_cost": 4.212658196278746
     },
     "FIL/USDT": {
-      "qty": 1024.7530939672995,
-      "avg_cost": 0.9629460736214067
+      "qty": 1984.1355767940613,
+      "avg_cost": 1.0231228671243773
     },
     "BTC/USDT": {
-      "qty": 0.03814589898393179,
-      "avg_cost": 81635.60704639398
-    },
-    "LINK/USDT": {
-      "qty": 134.36058662828583,
-      "avg_cost": 13.71379035700328
+      "qty": 0.06906306300191588,
+      "avg_cost": 81752.43120808851
     }
   },
-  "last_run": "2026-10-13T21:00:00",
-  "pnl_cum": 4818.034663720537,
+  "last_run": "2026-10-14T21:00:00",
+  "pnl_cum": 4221.70736527635,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -1027,6 +1011,13 @@
       "frequency": "daily",
       "pnl_day": -141.20409472979372,
       "eod_value": 104818.03466372054
+    },
+    {
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -596.3272984441865,
+      "eod_value": 104221.70736527635
     }
   ],
   "strategy_meta": {
@@ -1035,13 +1026,13 @@
       "ETH/USDT": false,
       "BNB/USDT": false,
       "XRP/USDT": false,
-      "ADA/USDT": true,
+      "ADA/USDT": false,
       "SOL/USDT": false,
       "DOGE/USDT": false,
-      "AVAX/USDT": true,
+      "AVAX/USDT": false,
       "DOT/USDT": false,
-      "LINK/USDT": true,
-      "LTC/USDT": true,
+      "LINK/USDT": false,
+      "LTC/USDT": false,
       "UNI/USDT": false,
       "BCH/USDT": false,
       "ATOM/USDT": true,
