@@ -3,7 +3,7 @@
   "init_capital": 45000.0,
   "cash": 51621.20264494381,
   "positions": {},
-  "last_run": "2026-10-14T20:00:00",
+  "last_run": "2026-10-15T20:00:00",
   "pnl_cum": 6621.202644943813,
   "pnl_history": [
     {
@@ -4835,11 +4835,60 @@
       "frequency": "hourly",
       "pnl_day": 0.0,
       "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
+    },
+    {
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 51621.20264494381
     }
   ],
   "strategy_meta": {
     "in_pos": false,
     "cooldown_end": "2026-10-12T08:00:00",
-    "last_bar": "2026-10-14T19:00:00"
+    "last_bar": "2026-10-15T19:00:00"
   }
 }
