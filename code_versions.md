@@ -148,3 +148,4 @@ Mapping from track-record date → paper_runner git SHA. Used by `verify.py` to 
 | 2026-10-16 | `4e071d5-dirty` |
 | 2026-10-17 | `4e071d5-dirty` |
 | 2026-10-18 | `4e071d5-dirty` |
+| 2026-10-19 | `4e071d5-dirty` |
