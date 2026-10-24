@@ -1,19 +1,15 @@
 {
   "strategy": "donchian_crypto",
   "init_capital": 100000.0,
-  "cash": 85339.87045975491,
+  "cash": 93968.22204516314,
   "positions": {
-    "ATOM/USDT": {
-      "qty": 8123.533172450319,
-      "avg_cost": 1.7363054146193118
-    },
     "NEAR/USDT": {
-      "qty": 914.5732824537762,
-      "avg_cost": 4.624101678591017
+      "qty": 1971.498565450138,
+      "avg_cost": 4.5586426650970475
     }
   },
-  "last_run": "2026-10-23T21:00:00",
-  "pnl_cum": -508.9347538366419,
+  "last_run": "2026-10-24T21:00:00",
+  "pnl_cum": 2843.908586819656,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -1069,6 +1065,13 @@
       "frequency": "daily",
       "pnl_day": -4319.629618995154,
       "eod_value": 99491.06524616336
+    },
+    {
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 3352.843340656298,
+      "eod_value": 102843.90858681966
     }
   ],
   "strategy_meta": {
@@ -1086,7 +1089,7 @@
       "LTC/USDT": false,
       "UNI/USDT": false,
       "BCH/USDT": false,
-      "ATOM/USDT": true,
+      "ATOM/USDT": false,
       "ETC/USDT": false,
       "XLM/USDT": false,
       "NEAR/USDT": true,
