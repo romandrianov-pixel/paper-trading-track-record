@@ -1,15 +1,10 @@
 {
   "strategy": "overnight_qqq_fri_skip",
   "init_capital": 100000.0,
-  "cash": -0.023299220209595184,
-  "positions": {
-    "QQQ": {
-      "qty": 130.79312767485436,
-      "avg_cost": 712.2000122070312
-    }
-  },
-  "last_run": "2026-10-29T21:00:00",
-  "pnl_cum": -6438.463835779141,
+  "cash": 90266.16647898789,
+  "positions": {},
+  "last_run": "2026-10-30T21:00:00",
+  "pnl_cum": -9733.833521012115,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -727,6 +722,13 @@
       "frequency": "daily",
       "pnl_day": -1343.2399927950464,
       "eod_value": 93561.53616422086
+    },
+    {
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -3295.369685232974,
+      "eod_value": 90266.16647898789
     }
   ],
   "strategy_meta": {}
