@@ -1,15 +1,10 @@
 {
   "strategy": "four_way.svxy",
   "init_capital": 45000.0,
-  "cash": 4809.482295351913,
-  "positions": {
-    "SVXY": {
-      "qty": 712.7531306509601,
-      "avg_cost": 63.715545762235585
-    }
-  },
-  "last_run": "2026-11-02T20:00:00",
-  "pnl_cum": 3094.979919784717,
+  "cash": 48016.34543064565,
+  "positions": {},
+  "last_run": "2026-11-03T20:00:00",
+  "pnl_cum": 3016.345430645648,
   "pnl_history": [
     {
       "date": "2026-05-01",
@@ -5477,11 +5472,60 @@
       "frequency": "hourly",
       "pnl_day": -348.9850342036807,
       "eod_value": 48094.97991978472
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T14:00:00",
+      "frequency": "hourly",
+      "pnl_day": -78.63448913906905,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T15:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T16:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T17:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T18:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T19:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
+    },
+    {
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T20:00:00",
+      "frequency": "hourly",
+      "pnl_day": 0.0,
+      "eod_value": 48016.34543064565
     }
   ],
   "strategy_meta": {
-    "in_pos": true,
-    "cooldown_end": "2026-10-29T15:00:00",
-    "last_bar": "2026-11-02T20:00:00"
+    "in_pos": false,
+    "cooldown_end": "2026-11-05T09:00:00",
+    "last_bar": "2026-11-03T20:00:00"
   }
 }
