@@ -1,15 +1,15 @@
 {
   "strategy": "vvix_spy_reversal",
   "init_capital": 100000.0,
-  "cash": -49.99999999998544,
+  "cash": -0.02499999999702414,
   "positions": {
     "SPY": {
-      "qty": 136.37541060784943,
+      "qty": 136.30741669874914,
       "avg_cost": 733.27001953125
     }
   },
-  "last_run": "2026-11-05T21:00:00",
-  "pnl_cum": -50.0,
+  "last_run": "2026-11-06T21:00:00",
+  "pnl_cum": 234.99494690149731,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -771,10 +771,17 @@
       "frequency": "daily",
       "pnl_day": -50.0,
       "eod_value": 99950.0
+    },
+    {
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 284.9949469014973,
+      "eod_value": 100234.9949469015
     }
   ],
   "strategy_meta": {
     "entry_date": "2026-11-05",
-    "days_held": 0
+    "days_held": 1
   }
 }
