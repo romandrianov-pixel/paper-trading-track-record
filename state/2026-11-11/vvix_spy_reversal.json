@@ -8,8 +8,8 @@
       "avg_cost": 733.27001953125
     }
   },
-  "last_run": "2026-11-10T21:00:00",
-  "pnl_cum": 2233.266334650063,
+  "last_run": "2026-11-11T21:00:00",
+  "pnl_cum": 3571.806164977126,
   "pnl_history": [
     {
       "date": "2026-04-22",
@@ -792,10 +792,17 @@
       "frequency": "daily",
       "pnl_day": -357.1247661871603,
       "eod_value": 102233.26633465006
+    },
+    {
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:00:00",
+      "frequency": "daily",
+      "pnl_day": 1338.539830327063,
+      "eod_value": 103571.80616497713
     }
   ],
   "strategy_meta": {
     "entry_date": "2026-11-05",
-    "days_held": 3
+    "days_held": 4
   }
 }
