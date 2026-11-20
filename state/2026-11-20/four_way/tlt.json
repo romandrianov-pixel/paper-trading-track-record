@@ -1,10 +1,15 @@
 {
   "strategy": "four_way.tlt",
   "init_capital": 15000.0,
-  "cash": 13817.65610470263,
-  "positions": {},
-  "last_run": "2026-11-19T21:00:00",
-  "pnl_cum": -1182.3438952973702,
+  "cash": 27628.40338135291,
+  "positions": {
+    "TLT": {
+      "qty": -169.68337065697875,
+      "avg_cost": 81.43199920654297
+    }
+  },
+  "last_run": "2026-11-20T21:00:00",
+  "pnl_cum": -1189.2527233497203,
   "pnl_history": [
     {
       "date": "2026-05-01",
@@ -887,6 +892,13 @@
       "frequency": "daily",
       "pnl_day": 0.0,
       "eod_value": 13817.65610470263
+    },
+    {
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:00:00",
+      "frequency": "daily",
+      "pnl_day": -6.908828052350145,
+      "eod_value": 13810.74727665028
     }
   ],
   "strategy_meta": {}
